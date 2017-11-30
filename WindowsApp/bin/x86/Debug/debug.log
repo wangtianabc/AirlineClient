@@ -1,0 +1,1136 @@
+[1106/160451.356:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1106/160510.191:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1106/160600.533:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1106/162956.715:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1106/163036.653:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1106/163104.511:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1106/163132.987:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1106/163146.923:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1106/163221.577:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1106/163302.494:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1106/163400.083:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1106/163415.406:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1106/163425.399:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1106/163634.177:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1106/164145.398:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1106/164352.929:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1106/164424.858:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1106/164503.318:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1106/164551.264:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1106/164959.250:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1106/165213.687:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/083421.371:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/083538.023:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/083628.037:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/083826.773:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/084315.574:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/084326.992:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/084418.396:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/084617.240:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/084701.807:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/084801.092:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/085007.356:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/085431.387:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/090658.939:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/090820.014:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/090855.877:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/091005.043:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/091134.692:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/091304.282:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/091358.913:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/091425.643:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/091516.047:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/091547.989:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/091609.936:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/091703.964:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/091726.758:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/091858.803:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/091935.118:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/092022.787:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/092031.610:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/092126.499:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/092229.306:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/092458.677:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/092626.836:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/092814.712:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/093402.838:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/093723.639:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/093807.415:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/093928.289:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/095059.857:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/095125.943:ERROR:source_stream.cc(64)] when no data is written all input must be consumed; data_out_written == 0 && data_in_read != data_in_size
+[1107/095937.547:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/095941.613:ERROR:source_stream.cc(64)] when no data is written all input must be consumed; data_out_written == 0 && data_in_read != data_in_size
+[1107/100356.925:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/100358.100:ERROR:source_stream.cc(64)] when no data is written all input must be consumed; data_out_written == 0 && data_in_read != data_in_size
+[1107/100414.507:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/100442.843:ERROR:source_stream.cc(64)] when no data is written all input must be consumed; data_out_written == 0 && data_in_read != data_in_size
+[1107/100507.287:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/100513.139:ERROR:source_stream.cc(64)] when no data is written all input must be consumed; data_out_written == 0 && data_in_read != data_in_size
+[1107/100612.818:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/100613.868:ERROR:source_stream.cc(64)] when no data is written all input must be consumed; data_out_written == 0 && data_in_read != data_in_size
+[1107/100635.161:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/101030.113:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/101031.279:ERROR:source_stream.cc(64)] when no data is written all input must be consumed; data_out_written == 0 && data_in_read != data_in_size
+[1107/101047.495:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/101244.171:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/101552.094:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/104020.462:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/104143.360:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/104339.236:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/105904.480:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/111222.189:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/111307.450:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/112520.991:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/112727.530:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/121736.204:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/121817.804:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/122038.456:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/122550.963:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/122643.699:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/122823.111:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/122911.361:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/122925.177:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/122951.128:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/123035.516:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/123322.127:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/123401.590:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/123423.173:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/124439.272:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/124509.466:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/124658.700:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/124811.843:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/125723.078:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/125841.309:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/125900.254:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/131643.246:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/152301.797:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/152442.815:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/152521.523:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/152608.397:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1107/152640.106:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1108/095752.943:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1108/095849.095:ERROR:dns_config_service_win.cc(745)] DNS config watch failed.
+[1108/100427.960:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1108/102603.243:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1108/140207.053:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1108/145503.569:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1108/145549.925:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1108/162747.398:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1109/084038.952:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1109/084536.942:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1109/084746.526:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1109/090502.684:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1109/100624.104:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1109/100957.659:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1109/111314.920:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1113/151742.310:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1113/152116.017:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1114/095335.101:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1114/095632.259:ERROR:dns_config_service_win.cc(745)] DNS config watch failed.
+[1114/095849.503:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1114/105532.199:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1114/110119.386:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1114/150813.929:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1114/151131.011:ERROR:dns_config_service_win.cc(745)] DNS config watch failed.
+[1114/154038.327:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1114/154218.231:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1114/154333.532:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1114/155022.580:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1114/155428.790:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1114/155717.908:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1114/155928.233:ERROR:dns_config_service_win.cc(745)] DNS config watch failed.
+[1114/155944.139:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1114/161425.031:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1114/162041.993:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1114/162338.332:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1114/162437.452:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1114/163723.009:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1114/163816.514:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1114/165054.107:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1114/165211.304:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1114/165302.488:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1114/165411.320:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1114/165508.517:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1114/165535.643:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1114/165615.628:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1114/170744.862:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[1114/170744.888:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[1114/170744.889:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[1115/082212.236:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[1115/112002.653:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1115/144242.637:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1115/154020.287:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1115/155459.269:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1115/155620.077:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1115/160237.794:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1115/160412.426:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1115/160618.343:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1116/124135.184:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1116/124221.453:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[1116/124222.335:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[1116/124222.437:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[1116/124224.679:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[1116/124253.507:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1116/125434.363:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[1116/125434.573:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[1116/125435.306:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[1116/125630.190:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1116/130107.243:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1116/133918.156:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1116/135334.758:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1120/141022.757:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1120/144609.680:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1121/095756.764:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1121/110057.830:ERROR:dns_config_service_win.cc(745)] DNS config watch failed.
+[1121/131716.301:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1121/134549.675:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1121/135235.348:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1121/140521.040:ERROR:dns_config_service_win.cc(745)] DNS config watch failed.
+[1122/090541.237:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1122/090745.042:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1122/090847.967:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1122/091234.820:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1122/091414.009:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1122/091531.111:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1122/091726.119:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1122/091835.348:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1122/091857.916:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1122/092352.349:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1122/092754.355:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1122/093205.666:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1122/093251.703:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1122/093536.840:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1122/093717.995:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1122/093830.889:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1122/094840.485:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1122/094955.079:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1122/095142.350:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1122/100601.448:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1122/100701.357:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1122/100833.373:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1122/101031.900:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1122/101301.073:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1122/102505.264:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1122/102722.391:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1122/105009.868:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1122/105550.071:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1122/105753.966:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1122/111130.081:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1122/111813.517:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1122/154806.129:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1122/160740.630:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1122/162817.224:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1123/094837.707:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1123/095053.744:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1123/095306.543:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1123/095555.627:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1123/095720.648:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1123/095816.294:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1123/095845.640:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1123/100000.657:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1123/100444.347:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1123/101153.780:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1123/101321.139:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1123/101457.136:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1123/101851.268:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1123/102719.691:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1123/102822.626:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1123/103257.758:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1123/104423.294:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1123/105811.091:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1123/105835.489:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1123/105944.102:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1123/113335.935:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1123/120635.370:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1123/120742.374:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1123/120908.737:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1123/135231.814:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1123/152851.100:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1123/152906.378:ERROR:ssl_client_socket_impl.cc(1136)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1123/152906.391:ERROR:ssl_client_socket_impl.cc(1136)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1123/153240.628:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1123/153411.562:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1123/153506.232:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1123/153626.544:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1123/154512.328:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1123/154927.800:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1123/155751.800:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1123/160726.386:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1123/163235.466:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1123/163357.278:ERROR:dns_config_service_win.cc(745)] DNS config watch failed.
+[1123/163725.103:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1123/164006.054:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1123/164548.834:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1123/165437.334:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1123/165509.908:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1123/170241.703:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1123/170339.025:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1123/171718.414:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[1123/171718.438:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[1124/084754.917:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[1124/084754.928:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[1124/091447.808:ERROR:dns_config_service_win.cc(745)] DNS config watch failed.
+[1124/091447.808:ERROR:dns_config_service_win.cc(745)] DNS config watch failed.
+[1124/091745.500:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1124/092225.270:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1127/144154.348:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1127/144202.749:ERROR:interface_registry.cc(203)] Failed to locate a binder for interface: blink::mojom::SensitiveInputVisibilityService requested by: content_renderer exposed by: content_browser via InterfaceProviderSpec "navigation:frame".
+[1127/144202.749:WARNING:interface_registry.cc(210)] 
+
+InterfaceRegistry(navigation:frame):
+Owned by:
+  content_browser@ run as: 2c704fda-2b7f-4f1c-8910-9955731fa03d
+
+  Providing:
+    capability: renderer containing interfaces:
+      autofill::mojom::AutofillDriver
+      autofill::mojom::PasswordManagerDriver
+      blink::mojom::MediaSessionService
+      blink::mojom::PermissionService
+      blink::mojom::PresentationService
+      blink::mojom::SensitiveInputVisibilityService
+      blink::mojom::WebBluetoothService
+      blink::mojom::WebSocket
+      content::mojom::BrowserTarget
+      device::VibrationManager
+      device::mojom::GeolocationService
+      device::mojom::SensorProvider
+      device::mojom::VRService
+      device::mojom::WakeLockService
+      device::nfc::mojom::NFC
+      device::usb::DeviceManager
+      discardable_memory::mojom::DiscardableSharedMemoryManager
+      extensions::KeepAlive
+      extensions::mime_handler::MimeHandlerService
+      media::mojom::InterfaceFactory
+      media::mojom::RemoterFactory
+      media::mojom::Renderer
+      mojom::MediaDevicesDispatcherHost
+      payments::mojom::PaymentRequest
+      shape_detection::mojom::BarcodeDetection
+      shape_detection::mojom::FaceDetectionProvider
+      shape_detection::mojom::TextDetection
+      ui::mojom::Gpu
+
+  Requiring:
+    From: content_renderer:
+      browser
+
+Bound to:
+  content_renderer@3_1 run as: 2c704fda-2b7f-4f1c-8910-9955731fa03d
+
+  Providing:
+    capability: browser containing interfaces:
+      blink::mojom::AppBannerController
+      blink::mojom::EngagementClient
+      blink::mojom::InstallationService
+      content::mojom::ImageDownloader
+      mojom::MediaDevicesListener
+
+  Requiring:
+    From: content_browser:
+      renderer
+
+Binders registered for:
+ * blink::mojom::MediaSessionService
+ * blink::mojom::PermissionService
+ * blink::mojom::PresentationService
+ * blink::mojom::WebBluetoothService
+ * blink::mojom::WebSocket
+ * device::VibrationManager
+ * device::mojom::GeolocationService
+ * device::mojom::VRService
+ * device::mojom::WakeLockService
+ * media::mojom::InterfaceFactory
+ * media::mojom::RemoterFactory
+ * mojom::MediaDevicesDispatcherHost
+
+ * - denotes an interface exposed to remote per policy.
+
+
+
+[1127/144210.562:ERROR:interface_registry.cc(203)] Failed to locate a binder for interface: blink::mojom::SensitiveInputVisibilityService requested by: content_renderer exposed by: content_browser via InterfaceProviderSpec "navigation:frame".
+[1127/144210.562:WARNING:interface_registry.cc(210)] 
+
+InterfaceRegistry(navigation:frame):
+Owned by:
+  content_browser@ run as: 2c704fda-2b7f-4f1c-8910-9955731fa03d
+
+  Providing:
+    capability: renderer containing interfaces:
+      autofill::mojom::AutofillDriver
+      autofill::mojom::PasswordManagerDriver
+      blink::mojom::MediaSessionService
+      blink::mojom::PermissionService
+      blink::mojom::PresentationService
+      blink::mojom::SensitiveInputVisibilityService
+      blink::mojom::WebBluetoothService
+      blink::mojom::WebSocket
+      content::mojom::BrowserTarget
+      device::VibrationManager
+      device::mojom::GeolocationService
+      device::mojom::SensorProvider
+      device::mojom::VRService
+      device::mojom::WakeLockService
+      device::nfc::mojom::NFC
+      device::usb::DeviceManager
+      discardable_memory::mojom::DiscardableSharedMemoryManager
+      extensions::KeepAlive
+      extensions::mime_handler::MimeHandlerService
+      media::mojom::InterfaceFactory
+      media::mojom::RemoterFactory
+      media::mojom::Renderer
+      mojom::MediaDevicesDispatcherHost
+      payments::mojom::PaymentRequest
+      shape_detection::mojom::BarcodeDetection
+      shape_detection::mojom::FaceDetectionProvider
+      shape_detection::mojom::TextDetection
+      ui::mojom::Gpu
+
+  Requiring:
+    From: content_renderer:
+      browser
+
+Bound to:
+  content_renderer@3_1 run as: 2c704fda-2b7f-4f1c-8910-9955731fa03d
+
+  Providing:
+    capability: browser containing interfaces:
+      blink::mojom::AppBannerController
+      blink::mojom::EngagementClient
+      blink::mojom::InstallationService
+      content::mojom::ImageDownloader
+      mojom::MediaDevicesListener
+
+  Requiring:
+    From: content_browser:
+      renderer
+
+Binders registered for:
+ * blink::mojom::MediaSessionService
+ * blink::mojom::PermissionService
+ * blink::mojom::PresentationService
+ * blink::mojom::WebBluetoothService
+ * blink::mojom::WebSocket
+ * device::VibrationManager
+ * device::mojom::GeolocationService
+ * device::mojom::VRService
+ * device::mojom::WakeLockService
+ * media::mojom::InterfaceFactory
+ * media::mojom::RemoterFactory
+ * mojom::MediaDevicesDispatcherHost
+
+ * - denotes an interface exposed to remote per policy.
+
+
+
+[1127/160319.619:ERROR:interface_registry.cc(203)] Failed to locate a binder for interface: blink::mojom::SensitiveInputVisibilityService requested by: content_renderer exposed by: content_browser via InterfaceProviderSpec "navigation:frame".
+[1127/160319.619:WARNING:interface_registry.cc(210)] 
+
+InterfaceRegistry(navigation:frame):
+Owned by:
+  content_browser@ run as: 2c704fda-2b7f-4f1c-8910-9955731fa03d
+
+  Providing:
+    capability: renderer containing interfaces:
+      autofill::mojom::AutofillDriver
+      autofill::mojom::PasswordManagerDriver
+      blink::mojom::MediaSessionService
+      blink::mojom::PermissionService
+      blink::mojom::PresentationService
+      blink::mojom::SensitiveInputVisibilityService
+      blink::mojom::WebBluetoothService
+      blink::mojom::WebSocket
+      content::mojom::BrowserTarget
+      device::VibrationManager
+      device::mojom::GeolocationService
+      device::mojom::SensorProvider
+      device::mojom::VRService
+      device::mojom::WakeLockService
+      device::nfc::mojom::NFC
+      device::usb::DeviceManager
+      discardable_memory::mojom::DiscardableSharedMemoryManager
+      extensions::KeepAlive
+      extensions::mime_handler::MimeHandlerService
+      media::mojom::InterfaceFactory
+      media::mojom::RemoterFactory
+      media::mojom::Renderer
+      mojom::MediaDevicesDispatcherHost
+      payments::mojom::PaymentRequest
+      shape_detection::mojom::BarcodeDetection
+      shape_detection::mojom::FaceDetectionProvider
+      shape_detection::mojom::TextDetection
+      ui::mojom::Gpu
+
+  Requiring:
+    From: content_renderer:
+      browser
+
+Bound to:
+  content_renderer@3_1 run as: 2c704fda-2b7f-4f1c-8910-9955731fa03d
+
+  Providing:
+    capability: browser containing interfaces:
+      blink::mojom::AppBannerController
+      blink::mojom::EngagementClient
+      blink::mojom::InstallationService
+      content::mojom::ImageDownloader
+      mojom::MediaDevicesListener
+
+  Requiring:
+    From: content_browser:
+      renderer
+
+Binders registered for:
+ * blink::mojom::MediaSessionService
+ * blink::mojom::PermissionService
+ * blink::mojom::PresentationService
+ * blink::mojom::WebBluetoothService
+ * blink::mojom::WebSocket
+ * device::VibrationManager
+ * device::mojom::GeolocationService
+ * device::mojom::VRService
+ * device::mojom::WakeLockService
+ * media::mojom::InterfaceFactory
+ * media::mojom::RemoterFactory
+ * mojom::MediaDevicesDispatcherHost
+
+ * - denotes an interface exposed to remote per policy.
+
+
+
+[1127/160326.169:ERROR:interface_registry.cc(203)] Failed to locate a binder for interface: blink::mojom::SensitiveInputVisibilityService requested by: content_renderer exposed by: content_browser via InterfaceProviderSpec "navigation:frame".
+[1127/160326.169:WARNING:interface_registry.cc(210)] 
+
+InterfaceRegistry(navigation:frame):
+Owned by:
+  content_browser@ run as: 2c704fda-2b7f-4f1c-8910-9955731fa03d
+
+  Providing:
+    capability: renderer containing interfaces:
+      autofill::mojom::AutofillDriver
+      autofill::mojom::PasswordManagerDriver
+      blink::mojom::MediaSessionService
+      blink::mojom::PermissionService
+      blink::mojom::PresentationService
+      blink::mojom::SensitiveInputVisibilityService
+      blink::mojom::WebBluetoothService
+      blink::mojom::WebSocket
+      content::mojom::BrowserTarget
+      device::VibrationManager
+      device::mojom::GeolocationService
+      device::mojom::SensorProvider
+      device::mojom::VRService
+      device::mojom::WakeLockService
+      device::nfc::mojom::NFC
+      device::usb::DeviceManager
+      discardable_memory::mojom::DiscardableSharedMemoryManager
+      extensions::KeepAlive
+      extensions::mime_handler::MimeHandlerService
+      media::mojom::InterfaceFactory
+      media::mojom::RemoterFactory
+      media::mojom::Renderer
+      mojom::MediaDevicesDispatcherHost
+      payments::mojom::PaymentRequest
+      shape_detection::mojom::BarcodeDetection
+      shape_detection::mojom::FaceDetectionProvider
+      shape_detection::mojom::TextDetection
+      ui::mojom::Gpu
+
+  Requiring:
+    From: content_renderer:
+      browser
+
+Bound to:
+  content_renderer@3_1 run as: 2c704fda-2b7f-4f1c-8910-9955731fa03d
+
+  Providing:
+    capability: browser containing interfaces:
+      blink::mojom::AppBannerController
+      blink::mojom::EngagementClient
+      blink::mojom::InstallationService
+      content::mojom::ImageDownloader
+      mojom::MediaDevicesListener
+
+  Requiring:
+    From: content_browser:
+      renderer
+
+Binders registered for:
+ * blink::mojom::MediaSessionService
+ * blink::mojom::PermissionService
+ * blink::mojom::PresentationService
+ * blink::mojom::WebBluetoothService
+ * blink::mojom::WebSocket
+ * device::VibrationManager
+ * device::mojom::GeolocationService
+ * device::mojom::VRService
+ * device::mojom::WakeLockService
+ * media::mojom::InterfaceFactory
+ * media::mojom::RemoterFactory
+ * mojom::MediaDevicesDispatcherHost
+
+ * - denotes an interface exposed to remote per policy.
+
+
+
+[1129/091705.003:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1129/091948.210:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1129/092100.995:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1129/093406.775:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1129/094929.771:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1129/095554.393:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1129/112605.390:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1129/150516.398:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1129/161044.320:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1129/161059.759:ERROR:interface_registry.cc(203)] Failed to locate a binder for interface: blink::mojom::SensitiveInputVisibilityService requested by: content_renderer exposed by: content_browser via InterfaceProviderSpec "navigation:frame".
+[1129/161059.760:WARNING:interface_registry.cc(210)] 
+
+InterfaceRegistry(navigation:frame):
+Owned by:
+  content_browser@ run as: f734878f-dc4c-47c6-8374-ca7e21c743e0
+
+  Providing:
+    capability: renderer containing interfaces:
+      autofill::mojom::AutofillDriver
+      autofill::mojom::PasswordManagerDriver
+      blink::mojom::MediaSessionService
+      blink::mojom::PermissionService
+      blink::mojom::PresentationService
+      blink::mojom::SensitiveInputVisibilityService
+      blink::mojom::WebBluetoothService
+      blink::mojom::WebSocket
+      content::mojom::BrowserTarget
+      device::VibrationManager
+      device::mojom::GeolocationService
+      device::mojom::SensorProvider
+      device::mojom::VRService
+      device::mojom::WakeLockService
+      device::nfc::mojom::NFC
+      device::usb::DeviceManager
+      discardable_memory::mojom::DiscardableSharedMemoryManager
+      extensions::KeepAlive
+      extensions::mime_handler::MimeHandlerService
+      media::mojom::InterfaceFactory
+      media::mojom::RemoterFactory
+      media::mojom::Renderer
+      mojom::MediaDevicesDispatcherHost
+      payments::mojom::PaymentRequest
+      shape_detection::mojom::BarcodeDetection
+      shape_detection::mojom::FaceDetectionProvider
+      shape_detection::mojom::TextDetection
+      ui::mojom::Gpu
+
+  Requiring:
+    From: content_renderer:
+      browser
+
+Bound to:
+  content_renderer@3_1 run as: f734878f-dc4c-47c6-8374-ca7e21c743e0
+
+  Providing:
+    capability: browser containing interfaces:
+      blink::mojom::AppBannerController
+      blink::mojom::EngagementClient
+      blink::mojom::InstallationService
+      content::mojom::ImageDownloader
+      mojom::MediaDevicesListener
+
+  Requiring:
+    From: content_browser:
+      renderer
+
+Binders registered for:
+ * blink::mojom::MediaSessionService
+ * blink::mojom::PermissionService
+ * blink::mojom::PresentationService
+ * blink::mojom::WebBluetoothService
+ * blink::mojom::WebSocket
+ * device::VibrationManager
+ * device::mojom::GeolocationService
+ * device::mojom::VRService
+ * device::mojom::WakeLockService
+ * media::mojom::InterfaceFactory
+ * media::mojom::RemoterFactory
+ * mojom::MediaDevicesDispatcherHost
+
+ * - denotes an interface exposed to remote per policy.
+
+
+
+[1130/102007.976:VERBOSE1:pref_proxy_config_tracker_impl.cc(151)] 13DD10A0: set chrome proxy config service to 0C393E78
+[1130/102007.976:VERBOSE1:pref_proxy_config_tracker_impl.cc(278)] 13DD10A0: Done pushing proxy to UpdateProxyConfig
+[1130/102007.976:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Google 'Pilot' log
+[1130/102007.976:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Google 'Aviator' log
+[1130/102007.976:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: DigiCert Log Server
+[1130/102007.976:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Google 'Rocketeer' log
+[1130/102007.976:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Symantec log
+[1130/102007.976:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Venafi log
+[1130/102007.976:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Symantec 'Vega' log
+[1130/102007.976:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: CNNIC CT log
+[1130/102007.976:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: WoSign log
+[1130/102008.006:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: StartCom CT log
+[1130/102008.006:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Google 'Skydiver' log
+[1130/102008.006:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Google 'Icarus' log
+[1130/102008.006:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Izenpe log
+[1130/102008.006:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Certly.IO log
+[1130/102008.016:VERBOSE1:webrtc_internals.cc(99)] Could not get the download directory.
+[1130/102008.106:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1130/102008.156:INFO:cpu_info.cc(50)] Available number of cores: 8
+[1130/102008.156:VERBOSE1:gles2_cmd_decoder.cc(3297)] GL_OES_packed_depth_stencil supported.
+[1130/102008.203:VERBOSE1:gles2_cmd_decoder.cc(3297)] GL_OES_packed_depth_stencil supported.
+[1130/102008.203:VERBOSE1:dhcp_proxy_script_adapter_fetcher_win.cc(262)] Error fetching PAC URL from DHCP: 2
+[1130/102008.213:VERBOSE1:dhcp_proxy_script_adapter_fetcher_win.cc(262)] Error fetching PAC URL from DHCP: 2
+[1130/102008.213:VERBOSE1:gles2_cmd_decoder.cc(3297)] GL_OES_packed_depth_stencil supported.
+[1130/102009.218:VERBOSE1:proxy_service.cc(1244)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[1130/102009.441:VERBOSE1:script_context.cc(111)] Created context:
+  extension id:           (none)
+  frame:                  4F7C19EC
+  URL:                    
+  context_type:           WEB_PAGE
+  effective extension id: (none)
+  effective context type: WEB_PAGE
+[1130/102009.441:VERBOSE1:script_context.cc(111)] Created context:
+  extension id:           (none)
+  frame:                  00000000
+  URL:                    
+  context_type:           UNSPECIFIED
+  effective extension id: (none)
+  effective context type: UNSPECIFIED
+[1130/102009.441:VERBOSE1:dispatcher.cc(396)] Num tracked contexts: 1
+[1130/102017.222:VERBOSE1:dhcp_proxy_script_adapter_fetcher_win.cc(262)] Error fetching PAC URL from DHCP: 2
+[1130/102017.222:VERBOSE1:dhcp_proxy_script_adapter_fetcher_win.cc(262)] Error fetching PAC URL from DHCP: 2
+[1130/102017.227:ERROR:interface_registry.cc(203)] Failed to locate a binder for interface: blink::mojom::SensitiveInputVisibilityService requested by: content_renderer exposed by: content_browser via InterfaceProviderSpec "navigation:frame".
+[1130/102017.227:WARNING:interface_registry.cc(210)] 
+
+InterfaceRegistry(navigation:frame):
+Owned by:
+  content_browser@ run as: cca22b94-8bd6-473c-aff5-128b1a8dcbd9
+
+  Providing:
+    capability: renderer containing interfaces:
+      autofill::mojom::AutofillDriver
+      autofill::mojom::PasswordManagerDriver
+      blink::mojom::MediaSessionService
+      blink::mojom::PermissionService
+      blink::mojom::PresentationService
+      blink::mojom::SensitiveInputVisibilityService
+      blink::mojom::WebBluetoothService
+      blink::mojom::WebSocket
+      content::mojom::BrowserTarget
+      device::VibrationManager
+      device::mojom::GeolocationService
+      device::mojom::SensorProvider
+      device::mojom::VRService
+      device::mojom::WakeLockService
+      device::nfc::mojom::NFC
+      device::usb::DeviceManager
+      discardable_memory::mojom::DiscardableSharedMemoryManager
+      extensions::KeepAlive
+      extensions::mime_handler::MimeHandlerService
+      media::mojom::InterfaceFactory
+      media::mojom::RemoterFactory
+      media::mojom::Renderer
+      mojom::MediaDevicesDispatcherHost
+      payments::mojom::PaymentRequest
+      shape_detection::mojom::BarcodeDetection
+      shape_detection::mojom::FaceDetectionProvider
+      shape_detection::mojom::TextDetection
+      ui::mojom::Gpu
+
+  Requiring:
+    From: content_renderer:
+      browser
+
+Bound to:
+  content_renderer@3_1 run as: cca22b94-8bd6-473c-aff5-128b1a8dcbd9
+
+  Providing:
+    capability: browser containing interfaces:
+      blink::mojom::AppBannerController
+      blink::mojom::EngagementClient
+      blink::mojom::InstallationService
+      content::mojom::ImageDownloader
+      mojom::MediaDevicesListener
+
+  Requiring:
+    From: content_browser:
+      renderer
+
+Binders registered for:
+ * blink::mojom::MediaSessionService
+ * blink::mojom::PermissionService
+ * blink::mojom::PresentationService
+ * blink::mojom::WebBluetoothService
+ * blink::mojom::WebSocket
+ * device::VibrationManager
+ * device::mojom::GeolocationService
+ * device::mojom::VRService
+ * device::mojom::WakeLockService
+ * media::mojom::InterfaceFactory
+ * media::mojom::RemoterFactory
+ * mojom::MediaDevicesDispatcherHost
+
+ * - denotes an interface exposed to remote per policy.
+
+
+
+[1130/102029.208:VERBOSE1:mime_sniffing_resource_handler.cc(355)] To buffer: http://10.1.99.77:8120/XyAirline/LoginAction/login.do
+[1130/102029.943:ERROR:interface_registry.cc(203)] Failed to locate a binder for interface: blink::mojom::SensitiveInputVisibilityService requested by: content_renderer exposed by: content_browser via InterfaceProviderSpec "navigation:frame".
+[1130/102029.944:WARNING:interface_registry.cc(210)] 
+
+InterfaceRegistry(navigation:frame):
+Owned by:
+  content_browser@ run as: cca22b94-8bd6-473c-aff5-128b1a8dcbd9
+
+  Providing:
+    capability: renderer containing interfaces:
+      autofill::mojom::AutofillDriver
+      autofill::mojom::PasswordManagerDriver
+      blink::mojom::MediaSessionService
+      blink::mojom::PermissionService
+      blink::mojom::PresentationService
+      blink::mojom::SensitiveInputVisibilityService
+      blink::mojom::WebBluetoothService
+      blink::mojom::WebSocket
+      content::mojom::BrowserTarget
+      device::VibrationManager
+      device::mojom::GeolocationService
+      device::mojom::SensorProvider
+      device::mojom::VRService
+      device::mojom::WakeLockService
+      device::nfc::mojom::NFC
+      device::usb::DeviceManager
+      discardable_memory::mojom::DiscardableSharedMemoryManager
+      extensions::KeepAlive
+      extensions::mime_handler::MimeHandlerService
+      media::mojom::InterfaceFactory
+      media::mojom::RemoterFactory
+      media::mojom::Renderer
+      mojom::MediaDevicesDispatcherHost
+      payments::mojom::PaymentRequest
+      shape_detection::mojom::BarcodeDetection
+      shape_detection::mojom::FaceDetectionProvider
+      shape_detection::mojom::TextDetection
+      ui::mojom::Gpu
+
+  Requiring:
+    From: content_renderer:
+      browser
+
+Bound to:
+  content_renderer@3_1 run as: cca22b94-8bd6-473c-aff5-128b1a8dcbd9
+
+  Providing:
+    capability: browser containing interfaces:
+      blink::mojom::AppBannerController
+      blink::mojom::EngagementClient
+      blink::mojom::InstallationService
+      content::mojom::ImageDownloader
+      mojom::MediaDevicesListener
+
+  Requiring:
+    From: content_browser:
+      renderer
+
+Binders registered for:
+ * blink::mojom::MediaSessionService
+ * blink::mojom::PermissionService
+ * blink::mojom::PresentationService
+ * blink::mojom::WebBluetoothService
+ * blink::mojom::WebSocket
+ * device::VibrationManager
+ * device::mojom::GeolocationService
+ * device::mojom::VRService
+ * device::mojom::WakeLockService
+ * media::mojom::InterfaceFactory
+ * media::mojom::RemoterFactory
+ * mojom::MediaDevicesDispatcherHost
+
+ * - denotes an interface exposed to remote per policy.
+
+
+
+[1130/102048.255:INFO:cpu_info.cc(50)] Available number of cores: 8
+[1130/102048.295:VERBOSE1:gles2_cmd_decoder.cc(3297)] GL_OES_packed_depth_stencil supported.
+[1130/102048.298:VERBOSE1:gles2_cmd_decoder.cc(3297)] GL_OES_packed_depth_stencil supported.
+[1130/102048.946:VERBOSE1:script_context.cc(111)] Created context:
+  extension id:           (none)
+  frame:                  283419EC
+  URL:                    
+  context_type:           WEB_PAGE
+  effective extension id: (none)
+  effective context type: WEB_PAGE
+[1130/102048.947:VERBOSE1:script_context.cc(111)] Created context:
+  extension id:           (none)
+  frame:                  00000000
+  URL:                    
+  context_type:           UNSPECIFIED
+  effective extension id: (none)
+  effective context type: UNSPECIFIED
+[1130/102048.948:VERBOSE1:dispatcher.cc(396)] Num tracked contexts: 1
+[1130/102530.258:VERBOSE1:dhcp_proxy_script_adapter_fetcher_win.cc(262)] Error fetching PAC URL from DHCP: 2
+[1130/102530.258:VERBOSE1:dhcp_proxy_script_adapter_fetcher_win.cc(262)] Error fetching PAC URL from DHCP: 2
+[1130/102530.701:INFO:cpu_info.cc(50)] Available number of cores: 8
+[1130/102530.739:VERBOSE1:gles2_cmd_decoder.cc(3297)] GL_OES_packed_depth_stencil supported.
+[1130/102530.742:VERBOSE1:gles2_cmd_decoder.cc(3297)] GL_OES_packed_depth_stencil supported.
+[1130/102531.101:VERBOSE1:script_context.cc(111)] Created context:
+  extension id:           (none)
+  frame:                  32DE19EC
+  URL:                    
+  context_type:           WEB_PAGE
+  effective extension id: (none)
+  effective context type: WEB_PAGE
+[1130/102531.102:VERBOSE1:script_context.cc(111)] Created context:
+  extension id:           (none)
+  frame:                  00000000
+  URL:                    
+  context_type:           UNSPECIFIED
+  effective extension id: (none)
+  effective context type: UNSPECIFIED
+[1130/102531.102:VERBOSE1:dispatcher.cc(396)] Num tracked contexts: 1
+[1130/102543.114:VERBOSE1:statistics_recorder.cc(498)] Collections of all histograms
+Histogram: GPU.ANGLE.D3D11CreateDeviceMS recorded 1 samples, mean = 13.0 (flags = 0x1)
+0   ... 
+12  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+14  ... 
+
+Histogram: GPU.ANGLE.D3D11FeatureLevel recorded 1 samples, mean = 5.0 (flags = 0x1)
+0  ... 
+5  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+6  O                                                                         (0 = 0.0%) {100.0%}
+
+Histogram: GPU.ANGLE.D3D11InitializeResult recorded 1 samples, mean = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (1 = 100.0%)
+1  ... 
+
+Histogram: GPU.ANGLE.D3DCompileMS recorded 14 samples, mean = 13.1 (flags = 0x1)
+0   ... 
+2   ------------------------------------------------O                         (2 = 14.3%) {0.0%}
+3   O                                                                         (0 = 0.0%) {14.3%}
+4   ------------------------------------------------O                         (2 = 14.3%) {14.3%}
+5   ------------------------------------------------------------------------O (3 = 21.4%) {28.6%}
+6   O                                                                         (0 = 0.0%) {50.0%}
+7   ------------------------O                                                 (1 = 7.1%) {50.0%}
+8   ------------O                                                             (1 = 7.1%) {57.1%}
+10  ------------O                                                             (1 = 7.1%) {64.3%}
+12  ... 
+17  --------O                                                                 (1 = 7.1%) {71.4%}
+20  ... 
+34  ----------O                                                               (2 = 14.3%) {78.6%}
+40  -----O                                                                    (1 = 7.1%) {92.9%}
+48  ... 
+
+Histogram: GPU.ANGLE.DisplayInitializeMS recorded 1 samples, mean = 15.0 (flags = 0x1)
+0   ... 
+14  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+17  ... 
+
+Histogram: GPU.ANGLE.Renderer11InitializeDLLsMS recorded 1 samples, mean = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (1 = 100.0%)
+1  ... 
+
+Histogram: GPU.ANGLE.Renderer11InitializeDeviceMS recorded 1 samples, mean = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (1 = 100.0%)
+1  ... 
+
+Histogram: GPU.ANGLE.SupportsDXGI1_2 recorded 1 samples, mean = 1.0 (flags = 0x1)
+0  O                                                                         (0 = 0.0%)
+1  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+2  O                                                                         (0 = 0.0%) {100.0%}
+
+Histogram: GPU.CollectContextGraphicsInfo recorded 1 samples, mean = 6.0 (flags = 0x1)
+0  ... 
+6  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+7  ... 
+
+Histogram: GPU.ContextMemory.GLES.Periodic recorded 30 samples, mean = 4.3 (flags = 0x1)
+0  -------O                                                                  (1 = 3.3%)
+1  ------------------------------------------------------------------------O (10 = 33.3%) {3.3%}
+2  ... 
+4  ----------------------------------------------------------O               (8 = 26.7%) {36.7%}
+5  O                                                                         (0 = 0.0%) {63.3%}
+6  -------O                                                                  (1 = 3.3%) {63.3%}
+7  O                                                                         (0 = 0.0%) {66.7%}
+8  ------------------------------------------------------------------------O (10 = 33.3%) {66.7%}
+9  ... 
+
+Histogram: GPU.ContextMemory.GLES.Shutdown recorded 4 samples, mean = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (4 = 100.0%)
+1  ... 
+
+Histogram: GPU.DoLinkProgramTime recorded 12 samples, mean = 16.0 (flags = 0x1)
+0   ------------------------------------------------------------------------O (5 = 41.7%)
+1   ... 
+8   -------O                                                                  (1 = 8.3%) {41.7%}
+10  O                                                                         (0 = 0.0%) {50.0%}
+12  -------O                                                                  (1 = 8.3%) {50.0%}
+14  -----O                                                                    (1 = 8.3%) {58.3%}
+17  ... 
+24  ---O                                                                      (1 = 8.3%) {66.7%}
+29  ... 
+40  ------O                                                                   (2 = 16.7%) {75.0%}
+48  ---O                                                                      (1 = 8.3%) {91.7%}
+57  ... 
+
+Histogram: GPU.EGLDisplayType recorded 1 samples, mean = 4.0 (flags = 0x1)
+0  ... 
+4  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+5  ... 
+
+Histogram: GPU.FenceSupport recorded 4 samples, mean = 1.0 (flags = 0x1)
+0  O                                                                         (0 = 0.0%)
+1  ------------------------------------------------------------------------O (4 = 100.0%) {0.0%}
+2  O                                                                         (0 = 0.0%) {100.0%}
+
+Histogram: GPU.InitializeOneOffMediumTime recorded 1 samples, mean = 26.0 (flags = 0x1)
+0   ... 
+22  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+27  ... 
+
+Histogram: GPU.MaxMSAASampleCount recorded 1 samples (flags = 0x1)
+16  ------------------------------------------------------------------------O (1 = 100.0%)
+
+Histogram: GPU.ProgramCache.BinaryCacheHitTime recorded 5 samples, mean = 518.4 (flags = 0x1)
+0    ... 
+340  ------------------------------------------------------------------------O (3 = 60.0%) {0.0%}
+448  O                                                                         (0 = 0.0%) {60.0%}
+590  ------------------------------------------------O                         (2 = 40.0%) {60.0%}
+777  ... 
+
+Histogram: GPU.ProgramCache.BinaryCacheMissTime recorded 7 samples, mean = 23915.6 (flags = 0x1)
+0      ... 
+5362   ------------------------------------O                                     (1 = 14.3%) {0.0%}
+7439   ------------------------------------O                                     (1 = 14.3%) {14.3%}
+10321  ------------------------------------O                                     (1 = 14.3%) {28.6%}
+14319  O                                                                         (0 = 0.0%) {42.9%}
+19866  ------------------------------------O                                     (1 = 14.3%) {42.9%}
+27562  ------------------------------------------------------------------------O (2 = 28.6%) {57.1%}
+38240  ------------------------------------O                                     (1 = 14.3%) {85.7%}
+53055  ... 
+
+Histogram: GPU.ProgramCache.CacheHit recorded 12 samples, mean = 0.4 (flags = 0x1)
+0  ------------------------------------------------------------------------O (7 = 58.3%)
+1  ---------------------------------------------------O                      (5 = 41.7%) {58.3%}
+2  O                                                                         (0 = 0.0%) {100.0%}
+
+Histogram: GPU.ProgramCache.LoadBinarySuccess recorded 5 samples, mean = 1.0 (flags = 0x1)
+0  O                                                                         (0 = 0.0%)
+1  ------------------------------------------------------------------------O (5 = 100.0%) {0.0%}
+2  O                                                                         (0 = 0.0%) {100.0%}
+
+Histogram: GPU.ProgramCache.MemorySizeAfterKb recorded 7 samples, mean = 30.9 (flags = 0x1)
+0   ... 
+5   ------------------------------------------------------------------------O (1 = 14.3%) {0.0%}
+7   ... 
+12  ------------------------------------O                                     (1 = 14.3%) {14.3%}
+16  O                                                                         (0 = 0.0%) {28.6%}
+21  -----------------------------O                                            (1 = 14.3%) {28.6%}
+28  -----------------------------O                                            (1 = 14.3%) {42.9%}
+37  -----------------------------O                                            (1 = 14.3%) {57.1%}
+49  ----------------------------------------------------------O               (2 = 28.6%) {71.4%}
+65  ... 
+
+Histogram: GPU.ProgramCache.MemorySizeBeforeKb recorded 7 samples, mean = 22.6 (flags = 0x1)
+0   ------------------------------------------------------------------------O (1 = 14.3%)
+1   ... 
+5   ------------------------------------O                                     (1 = 14.3%) {14.3%}
+7   ... 
+12  ------------------O                                                       (1 = 14.3%) {28.6%}
+16  O                                                                         (0 = 0.0%) {42.9%}
+21  --------------O                                                           (1 = 14.3%) {42.9%}
+28  --------------O                                                           (1 = 14.3%) {57.1%}
+37  --------------O                                                           (1 = 14.3%) {71.4%}
+49  --------------O                                                           (1 = 14.3%) {85.7%}
+65  ... 
+
+Histogram: GPU.ProgramCache.ProgramBinarySizeBytes recorded 7 samples, mean = 8539.9 (flags = 0x1)
+0     ... 
+5338  ------------------O                                                       (1 = 14.3%) {0.0%}
+7031  ------------------------------------------------------------------------O (4 = 57.1%) {14.3%}
+9260  ------------------------------------O                                     (2 = 28.6%) {71.4%}
+12196 ... 
+
+Histogram: GPU.TextureRG recorded 4 samples, mean = 1.0 (flags = 0x1)
+0  O                                                                         (0 = 0.0%)
+1  ------------------------------------------------------------------------O (4 = 100.0%) {0.0%}
+2  O                                                                         (0 = 0.0%) {100.0%}
+
+Histogram: Mojo.System.GetParentPlatformHandleSyncTime recorded 1 samples, mean = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (1 = 100.0%)
+1  ... 
+
+Histogram: Mojo.System.MessagesAcceptedPerEvent recorded 6082 samples, mean = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (6007 = 98.8%)
+1  O                                                                         (41 = 0.7%) {98.8%}
+2  O                                                                         (24 = 0.4%) {99.4%}
+3  O                                                                         (3 = 0.0%) {99.8%}
+4  O                                                                         (5 = 0.1%) {99.9%}
+5  ... 
+8  O                                                                         (2 = 0.0%) {100.0%}
+9  ... 
+
+Histogram: Mojo.System.Node.ConnectedPeers recorded 8 samples, mean = 1.8 (flags = 0x1)
+0  ------------------------O                                                 (1 = 12.5%)
+1  ------------------------------------------------O                         (2 = 25.0%) {12.5%}
+2  ------------------------------------------------------------------------O (3 = 37.5%) {37.5%}
+3  ------------------------------------------------O                         (2 = 25.0%) {75.0%}
+4  ... 
+
+Histogram: Mojo.System.Node.PendingChildren recorded 4 samples, mean = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (4 = 100.0%)
+1  ... 
+
+Histogram: TaskScheduler.DetachDuration.SimplePool recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.NumTasksBeforeDetach.SimplePool recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.NumTasksBetweenWaits.SimplePool recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.TaskLatency.BackgroundTaskPriority recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.TaskLatency.BackgroundTaskPriority.MayBlock recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.TaskLatency.UserBlockingTaskPriority recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.TaskLatency.UserBlockingTaskPriority.MayBlock recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.TaskLatency.UserVisibleTaskPriority recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.TaskLatency.UserVisibleTaskPriority.MayBlock recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TrackedObjects.GetRetiredOrCreateThreadData recorded 5 samples, mean = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (5 = 100.0%)
+1  ... 
+
+Histogram: UMA.Histograms.Activity.gpu-process recorded 128 samples, mean = 3.9 (flags = 0x1)
+0  --O                                                                       (1 = 0.8%)
+1  ------------------------------------------------------------------------O (38 = 29.7%) {0.8%}
+2  -------------------------O                                                (13 = 10.2%) {30.5%}
+3  -------------------------------------------------------O                  (29 = 22.7%) {40.6%}
+4  --------O                                                                 (4 = 3.1%) {63.3%}
+5  --------O                                                                 (4 = 3.1%) {66.4%}
+6  O                                                                         (0 = 0.0%) {69.5%}
+7  --O                                                                       (1 = 0.8%) {69.5%}
+8  ------------------------------------------------------------------------O (38 = 29.7%) {70.3%}
+9  ... 
+
+Histogram: V8.Initializer.LoadV8Snapshot.Result recorded 1 samples, mean = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (1 = 100.0%)
+1  ... 
+
+Histogram: V8.Initializer.OpenV8File.Result recorded 2 samples, mean = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (2 = 100.0%)
+1  ... 
+
+

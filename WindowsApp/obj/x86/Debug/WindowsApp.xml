@@ -1,0 +1,137 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WindowsApp
+</name>
+</assembly>
+<members>
+<member name="T:WindowsApp.My.Resources.Resources">
+<summary>
+  一个强类型的资源类，用于查找本地化的字符串等。
+</summary>
+</member>
+<member name="P:WindowsApp.My.Resources.Resources.ResourceManager">
+<summary>
+  返回此类使用的缓存的 ResourceManager 实例。
+</summary>
+</member>
+<member name="P:WindowsApp.My.Resources.Resources.Culture">
+<summary>
+  使用此强类型资源类，为所有资源查找
+  重写当前线程的 CurrentUICulture 属性。
+</summary>
+</member>
+<member name="P:WindowsApp.My.Resources.Resources._default">
+<summary>
+  查找类似于 (图标) 的 System.Drawing.Icon 类型的本地化资源。
+</summary>
+</member>
+<member name="T:WindowsApp.AsyncClass">
+ <summary>
+ 在JS中调用方法时，首字母必须要小写
+ </summary>
+</member>
+<member name="M:WindowsApp.AsyncClass.doSomething(CefSharp.IJavascriptCallback,CefSharp.IJavascriptCallback)">
+ <summary>
+ 异步回调
+ </summary>
+ <param name="successCallback"></param>
+ <param name="errorCallback"></param>
+</member>
+<member name="M:WindowsApp.AsyncClass.testRtn(CefSharp.IJavascriptCallback,CefSharp.IJavascriptCallback,System.Int32)">
+ <summary>
+ 参数传递
+ </summary>
+ <param name="SuccessCallback"></param>
+ <param name="ErrorCallback"></param>
+ <param name="val"></param>
+</member>
+<member name="M:WindowsApp.AsyncClass.msg(System.String)">
+ <summary>
+ 无参调用
+ </summary>
+</member>
+<member name="M:WindowsApp.CertClass.checkUSBAuthor(CefSharp.IJavascriptCallback,CefSharp.IJavascriptCallback,System.String)">
+ <summary>
+ 检查是否有用户的签名证书
+ </summary>
+ <param name="serialNumber">来自JS查询</param>
+</member>
+<member name="M:WindowsApp.CertClass.CheckUSBKey(System.String)">
+ <summary>
+ 检查是否有用户的签名证书,以确定用户已经插入了USBKey,并确定USBKey中包含当前用户的证书
+ </summary>
+ <param name="serialNumber"></param>
+ <returns></returns>
+</member>
+<member name="M:WindowsApp.CertClass.getCert(System.String)">
+ <summary>
+ 从USB-Key中获取本人的证书
+ </summary>
+ <param name="serialNumber"></param>
+ <returns></returns>
+</member>
+<member name="M:WindowsApp.CertClass.signMessage(CefSharp.IJavascriptCallback,CefSharp.IJavascriptCallback,System.String,System.String)">
+ <summary>
+ 使用USB-Key中本人的证书签名数据
+ </summary>
+ <param name="msg"></param>
+ <param name="serialNumber"></param>
+</member>
+<member name="M:WindowsApp.CommonMD.CreateShareNetConnect(System.String,System.String,System.String,System.String)">
+ <summary>
+ 用net use命令连接到远程共享目录上，创建网络共享连接
+ </summary>
+ <param name="Server">目标ip</param>
+ <param name="ShareName">远程共享名</param>
+ <param name="Username">远程登录用户</param>
+ <param name="Password">远程登录密码</param>
+</member>
+<member name="M:WindowsApp.CommonMD.RemoveShareNetConnect(System.String,System.String,System.String,System.String)">
+ <summary>
+ 用net use delete命令移除网络共享连接
+ </summary>
+ <param name="Server">目标ip</param>
+ <param name="ShareName">远程共享名</param>
+ <param name="Username">远程登录用户</param>
+ <param name="Password">远程登录密码</param>
+</member>
+<member name="M:WindowsApp.CommonMD.ConnectFileServer">
+ <summary>
+ 连接文件服务器
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:WindowsApp.ResponseFilterClass.Filter(System.IO.Stream,System.Int64@,System.IO.Stream,System.Int64@)">
+ <summary>
+ 数据过滤
+ </summary>
+ <param name="dataIn"></param>
+ <param name="dataInRead"></param>
+ <param name="dataOut"></param>
+ <param name="dataOutWritten"></param>
+ <returns></returns>
+</member>
+<member name="M:WindowsApp.JCPreviewForm.ModifyFile(System.String)">
+ <summary>
+ 将签名图片插入工卡
+ </summary>
+ <param name="jcid"></param>
+</member>
+<member name="M:WindowsApp.WebForm.ToolStripMenuItem_Login_Click(System.Object,System.EventArgs)">
+ <summary>
+ 异步调用javascript方法/事件(无返回值)
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:WindowsApp.WebForm.TestToolStripMenuItem_Click(System.Object,System.EventArgs)">
+ <summary>
+ 异步调用JS方法(有返回值)
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+</members>
+</doc>

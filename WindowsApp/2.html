@@ -1,0 +1,47 @@
+﻿<!DOCTYPE HTML>
+<html>
+<body>
+
+<button id="the-button">Try it</button>
+<button id="the-button1">Try Msg</button>
+<script>
+	const button = document.querySelector('#the-button');
+	button.addEventListener('click', onButtonClick);
+
+const button1 = document.querySelector('#the-button1');
+	button1.addEventListener('click', onButtonClick1);
+
+function onButtonClick1() {
+		AsyncPlugin.msg('hello winform');
+	}
+function onButtonClick() {
+alert('来自web');
+	let filters = [];
+	filters.push({namePrefix: '小米'});
+	
+  let options = {};
+  options.filters = filters;
+
+  console.log('Requesting Bluetooth Device...');
+  console.log('with ' + JSON.stringify(options));
+  navigator.bluetooth.requestDevice(options)
+  .then(device => {
+    console.log('> Name:             ' + device.name);
+    console.log('> Id:               ' + device.id);
+    console.log('> Connected:        ' + device.gatt.connected);
+  })
+  .catch(error => {
+    console.log('Argh! ' + error);
+  });
+}
+
+function test(x,y,z)
+{
+	
+	return 'test'+x+y+z;
+}
+
+</script>
+
+</body>
+</html>

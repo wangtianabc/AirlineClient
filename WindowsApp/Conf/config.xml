@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<conf>
+  <!--weburl>http://localhost:8088/</weburl-->
+  <weburl>http://10.1.99.77</weburl>
+
+  <server>10.1.99.77</server>
+  <username>ameco\xinyuan</username>
+  <password>ameco@xinyuan780</password>
+  <shareFbDocName>c$\nginx-1.13.1\html\jc</shareFbDocName>
+</conf>
