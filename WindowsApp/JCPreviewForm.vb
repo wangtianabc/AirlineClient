@@ -39,7 +39,7 @@ Public Class JCPreviewForm
 
     Private Sub OnIsBrowserInitializedChanged(sender As Object, args As IsBrowserInitializedChangedEventArgs)
         If args.IsBrowserInitialized Then
-            'webBrowser.GetBrowser().Reload(True)
+            webBrowser.Reload()
         End If
     End Sub
 
@@ -48,9 +48,7 @@ Public Class JCPreviewForm
     End Sub
 
     Private Sub JCPreviewForm_Closing(sender As Object, e As CancelEventArgs) Handles Me.Closing
-        webBrowser.Dispose()
-
-        Me.Dispose()
+        'Me.Close()
     End Sub
 
     ''' <summary>
@@ -97,7 +95,7 @@ Public Class JCPreviewForm
                         Continue For
                     End If
 
-                    Dim str = "<img style="" width:50px; height:25px;"" src=""" + m_JcId + ".files/" + idArr(1) + ".png"">"
+                    Dim str = "<img style="" width:50px; height:25px;"" src=""" + m_JcId + ".files/" + idArr(1) + ".png"" />"
                     fileStr = fileStr.Insert(divPos - 1, str)
 
                 End If

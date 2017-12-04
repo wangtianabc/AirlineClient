@@ -54,6 +54,7 @@ Public Class WebForm
 
         End Try
         Me.Close()
+        Application.Exit()
     End Sub
 
     Private Sub WebForm_Load(sender As Object, e As EventArgs) Handles Me.Load
@@ -116,4 +117,7 @@ Public Class WebForm
         obj.Show()
     End Sub
 
+    Private Sub WebForm_FormClosed(sender As Object, e As FormClosedEventArgs) Handles Me.FormClosed
+        Application.Exit()
+    End Sub
 End Class
