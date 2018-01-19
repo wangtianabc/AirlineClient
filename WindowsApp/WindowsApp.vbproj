@@ -96,11 +96,6 @@
     <Reference Include="System" />
     <Reference Include="System.configuration" />
     <Reference Include="System.Data" />
-    <Reference Include="System.Data.DataSetExtensions" />
-    <Reference Include="System.Data.SQLite, Version=1.0.106.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=x86">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\Program Files (x86)\System.Data.SQLite\2015\bin\System.Data.SQLite.dll</HintPath>
-    </Reference>
     <Reference Include="System.Deployment" />
     <Reference Include="System.Drawing" />
     <Reference Include="System.Web.Extensions" />
@@ -132,6 +127,8 @@
     <Compile Include="Common\AsyncClass.vb" />
     <Compile Include="Common\CertClass.vb" />
     <Compile Include="Common\CommonMD.vb" />
+    <Compile Include="Common\GlobalClass.vb" />
+    <Compile Include="Common\UserClass.vb" />
     <Compile Include="Handler\ContextMenuHandler.vb" />
     <Compile Include="Handler\RequestHandlerClass.vb" />
     <Compile Include="Handler\ResponseFilterClass.vb" />
@@ -139,12 +136,6 @@
       <DependentUpon>JCPreviewForm.vb</DependentUpon>
     </Compile>
     <Compile Include="JCPreviewForm.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="SqliteForm.Designer.vb">
-      <DependentUpon>SqliteForm.vb</DependentUpon>
-    </Compile>
-    <Compile Include="SqliteForm.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="WebForm.vb">
@@ -180,15 +171,11 @@
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
     </EmbeddedResource>
-    <EmbeddedResource Include="SqliteForm.resx">
-      <DependentUpon>SqliteForm.vb</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="WebForm.resx">
       <DependentUpon>WebForm.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <None Include="DB\airline.s3db" />
     <None Include="My Project\Application.myapp">
       <Generator>MyApplicationCodeGenerator</Generator>
       <LastGenOutput>Application.Designer.vb</LastGenOutput>

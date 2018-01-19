@@ -59,6 +59,12 @@ Public Class WebForm
 
     Private Sub WebForm_Load(sender As Object, e As EventArgs) Handles Me.Load
         Me.InitWebBrowser()
+        Me.InitGlobalConf()
+    End Sub
+
+    Private Sub InitGlobalConf()
+        Dim Userobj As New UserClass
+        GlobalClass.UserObj = Userobj
     End Sub
     ''' <summary>
     ''' 异步调用javascript方法/事件(无返回值)
@@ -112,10 +118,10 @@ Public Class WebForm
         Me.webBrowser.Reload()
     End Sub
 
-    Private Sub ToolStripMenuItem_Sqlite_Click(sender As Object, e As EventArgs) Handles ToolStripMenuItem_Sqlite.Click
-        Dim obj As New SqliteForm
-        obj.Show()
-    End Sub
+    'Private Sub ToolStripMenuItem_Sqlite_Click(sender As Object, e As EventArgs) Handles ToolStripMenuItem_Sqlite.Click
+    '    Dim obj As New SqliteForm
+    '    obj.Show()
+    'End Sub
 
     Private Sub WebForm_FormClosed(sender As Object, e As FormClosedEventArgs) Handles Me.FormClosed
         Application.Exit()

@@ -147,4 +147,11 @@ Public Class CertClass
             PreviewObj.ShowDialog()
         End If
     End Sub
+
+
+    Public Sub userInfo(ByVal signSn As String, ByVal signId As String)
+        GlobalClass.UserObj.UserSignId = signId
+        GlobalClass.UserObj.UserSignSn = signSn
+    End Sub
+
 End Class

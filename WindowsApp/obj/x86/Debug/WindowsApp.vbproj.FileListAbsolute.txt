@@ -23,8 +23,4 @@ D:\AirlineClient\WindowsApp\obj\x86\Debug\WindowsApp.vbproj.ResolveComReference.
 D:\AirlineClient\WindowsApp\obj\x86\Debug\WindowsApp.JCPreviewForm.resources
 D:\AirlineClient\WindowsApp\obj\x86\Debug\WindowsApp.vbprojResolveAssemblyReference.cache
 D:\AirlineClient\WindowsApp\bin\x86\Debug\XySoft.Ctrl.dll
-D:\AirlineClient\WindowsApp\bin\x86\Debug\System.Data.SQLite.dll
-D:\AirlineClient\WindowsApp\bin\x86\Debug\System.Data.SQLite.pdb
-D:\AirlineClient\WindowsApp\bin\x86\Debug\System.Data.SQLite.dll.config
-D:\AirlineClient\WindowsApp\obj\x86\Debug\WindowsApp.SqliteForm.resources
 D:\AirlineClient\WindowsApp\obj\x86\Debug\WindowsApp.vbproj.CoreCompileInputs.cache

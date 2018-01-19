@@ -28,18 +28,32 @@ Public Class JCPreviewForm
 
     Private Sub InitWebBrowser()
         Dim JcUrl As String = XmlLoadMD.XmlLoad(Application.StartupPath & "\../../../Conf/config.xml", "conf/weburl").Trim() & "/jc/" & m_JcId & ".html" 'ConfigurationManager.AppSettings("FileURL").ToString() & m_JcId & ".html"
+
+        'Dim JcUrl As String = "http://10.1.99.77/jc/" & m_JcId & ".html"
         Dim FileUrl As String = XmlLoadMD.XmlLoad(Application.StartupPath & "\../../../Conf/config.xml", "conf/filrurl").Trim() & m_JcId & ".html"
         Me.ModifyFile(m_JcId)
         webBrowser = New ChromiumWebBrowser(JcUrl)
 
+        Dim CertPlugin As CertClass = New CertClass() ' 注册签名插件
+        webBrowser.RegisterAsyncJsObject("CertPlugin", CertPlugin)
+        'webBrowser.MenuHandler = New ContextMenuHandler()
+
         Me.Panel_JcPreview.Controls.Add(webBrowser)
         webBrowser.Dock = DockStyle.Fill
         AddHandler Me.webBrowser.IsBrowserInitializedChanged, AddressOf Me.OnIsBrowserInitializedChanged
+        AddHandler Me.webBrowser.LoadingStateChanged, AddressOf Me.OnLoadingStateChanged
     End Sub
 
     Private Sub OnIsBrowserInitializedChanged(sender As Object, args As IsBrowserInitializedChangedEventArgs)
         If args.IsBrowserInitialized Then
-            webBrowser.Reload()
+            'webBrowser.Reload()
+        End If
+    End Sub
+
+    Private Sub OnLoadingStateChanged(sender As Object, args As LoadingStateChangedEventArgs)
+        If Not args.IsLoading Then
+            Dim itemArr() As Object = {GlobalClass.UserObj.UserSignId, GlobalClass.UserObj.UserSignSn} '参数传递
+            Dim rtnFromJs As Task(Of CefSharp.JavascriptResponse) = Me.webBrowser.EvaluateScriptAsync("signInfo", itemArr)
         End If
     End Sub
 
